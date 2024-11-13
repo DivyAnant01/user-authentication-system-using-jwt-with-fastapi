@@ -8,3 +8,5 @@ Pydantic Models: User data validation and automated API documentation.
 MongoDB Integration: Utilizes MongoDB for user data storage with the motor asynchronous driver.
 Logging: Tracks API calls for better observability.
 Secure Endpoints: Sensitive endpoints protected by JWT authentication and role validation.
+
+add your .env file for database for running on server

@@ -1,0 +1,1 @@
+return FileResponse("static/favicon.ico")
